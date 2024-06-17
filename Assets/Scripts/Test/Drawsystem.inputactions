@@ -1,0 +1,34 @@
+{
+    "name": "Drawsystem",
+    "maps": [
+        {
+            "name": "draw",
+            "id": "3a103750-1df9-4554-9d28-8c3fe4817278",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "bec0ebb0-74c7-4ae1-93f8-6a380d680c8f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "30dede2e-2cc9-4293-b753-b37422b451c5",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

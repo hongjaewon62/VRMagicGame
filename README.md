@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/watch?v=bVare93uV2U">
     <img src="https://github.com/hongjaewon62/VRMagicGame/blob/main/Assets/logo.png" width="50%" height="50%"/>
 </a>
-이미지를 클릭하면 영상이 재생됩니다.
+<p>이미지를 클릭하면 영상이 재생됩니다.</p>
 
 <hr>
 <h2 id="Outline">게임 개요</h2>
